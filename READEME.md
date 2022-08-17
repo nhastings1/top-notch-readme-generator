@@ -23,7 +23,7 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![Nick's README Generator](./src/README%20Generator.mov)
+![Nick's README Generator](./src/README.mov.mov)
   
 🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
   
@@ -80,9 +80,8 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
-
+Nick Hastings and starter code from KU Full Stack Flex Program
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:nickh.code@gmail.com) , [GitHub](https://github.com/nhastings1)<br />
 
     
