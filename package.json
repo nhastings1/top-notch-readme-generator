@@ -1,0 +1,29 @@
+{
+  "name": "top_notch_readme_generator",
+  "version": "1.0.0",
+  "description": "CLI README GENERATOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhastings1/top_notch_readme_generator.git"
+  },
+  "keywords": [],
+  "author": "Nick Hastings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhastings1/top_notch_readme_generator/issues"
+  },
+  "homepage": "https://github.com/nhastings1/top_notch_readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
