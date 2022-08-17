@@ -6,6 +6,7 @@ function generateReadme(answers) {
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
 ## Description
 🔍 ${answers.description}
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -14,26 +15,33 @@ function generateReadme(answers) {
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
 ## Installation
 💾 ${answers.installation}
+
 ## Usage
 💻 ${answers.usage}
+
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 <br />
 This application is covered by the ${answers.license} license. 
+
 ## Contributing
 👪 ${answers.contributing}
+
 ## Tests
 ✏️ ${answers.tests}
+
 ## Questions
 ✋ ${answers.questions}<br />
 <br />
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 ✉️ Email me with any questions: ${answers.email}<br /><br />
+
 _This README was generated with ❤️ by [
-top_notch_readme_generator](https://github.com/nhastings1/top_notch_readme_generator) 🔥🔥🔥_
+top_notch_readme_generator](https://github.com/nhastings1/top-notch-readme-generator) 🔥🔥🔥_
     `;
   }
   
