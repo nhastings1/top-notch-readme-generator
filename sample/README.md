@@ -1,9 +1,9 @@
 
-<h1 align="center">s 👋</h1>
+<h1 align="center">Top-Notch 👋</h1>
   
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 ## Description
-🔍 s
+🔍 README Generator
 
 ## Table of Contents
 - [Description](#description)
@@ -15,28 +15,28 @@
 - [Questions](#questions)
 
 ## Installation
-💾 s
+💾 run npm install
 
 ## Usage
-💻 s
+💻 Have a way to generate fast good looking README templates
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the ISC license. 
 
 ## Contributing
-👪 s
+👪 Nick Hastings
 
 ## Tests
-✏️ s
+✏️ Yes
 
 ## Questions
-✋ s<br />
+✋ Follow Link<br />
 <br />
-:octocat: Find me on GitHub: [s](https://github.com/s)<br />
+:octocat: Find me on GitHub: [nhastings1](https://github.com/nhastings1)<br />
 <br />
-✉️ Email me with any questions: s<br /><br />
+✉️ Email me with any questions: nickh.code@gmail.com<br /><br />
 
 _This README was generated with ❤️ by [
 top_notch_readme_generator](https://github.com/nhastings1/top-notch-readme-generator) 🔥🔥🔥_
